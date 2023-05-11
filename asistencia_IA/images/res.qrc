@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images">
+    <file>actividad-online.png</file>
+    <file>contrasena.png</file>
+    <file>fondo.jpg</file>
+    <file>fondo-l.jpg</file>
+    <file>fondo-r.jpg</file>
+    <file>iniciar-sesion.png</file>
+    <file>OpenCV.png</file>
+    <file>registrarse.png</file>
+    <file>res.qrc</file>
+    <file>sistemas 4.png</file>
+    <file>usuario.png</file>
+  </qresource>
+</RCC>
